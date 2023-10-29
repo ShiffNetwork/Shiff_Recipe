@@ -2,14 +2,6 @@
 
 Welcome Shiff reciped which using  Vue.js! Th
 
-## Prerequisites
-
-Before you can run this project, ensure that you have the following software installed on your system:
-
-1. **Docker:** You can download Docker from [the official Docker website](https://www.docker.com/get-started).
-
-## Getting Started
-
 Follow these steps to set up and run the project:
 
 1. **Clone the Repository:**
