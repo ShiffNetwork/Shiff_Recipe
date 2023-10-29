@@ -154,6 +154,7 @@ export default {
 
 .recipe-content{
     display: flex;
+    color: #2c3e50;
 }
 
 .ingredients{
